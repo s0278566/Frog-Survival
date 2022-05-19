@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 0967fe8dacfd50f46bb5a3450f6a8bad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5877117024975568587
+    second: PC Computer - Yooka-Laylee - Butterfly_0
+  - first:
+      213: 6103462286944385836
+    second: PC Computer - Yooka-Laylee - Butterfly_1
+  - first:
+      213: 6558082759242270474
+    second: PC Computer - Yooka-Laylee - Butterfly_2
+  - first:
+      213: -8917865119529934591
+    second: PC Computer - Yooka-Laylee - Butterfly_3
+  - first:
+      213: 980441437332883546
+    second: PC Computer - Yooka-Laylee - Butterfly_4
+  - first:
+      213: 5438793603095651974
+    second: PC Computer - Yooka-Laylee - Butterfly_5
+  - first:
+      213: 2608034344238595248
+    second: PC Computer - Yooka-Laylee - Butterfly_6
+  - first:
+      213: 6843038428155134497
+    second: PC Computer - Yooka-Laylee - Butterfly_7
+  - first:
+      213: -134716093606475133
+    second: PC Computer - Yooka-Laylee - Butterfly_8
+  - first:
+      213: 7380999182869817188
+    second: PC Computer - Yooka-Laylee - Butterfly_9
+  - first:
+      213: 2079052977189749219
+    second: PC Computer - Yooka-Laylee - Butterfly_10
+  - first:
+      213: 1747432662464104257
+    second: PC Computer - Yooka-Laylee - Butterfly_11
+  - first:
+      213: 6490760465528052948
+    second: PC Computer - Yooka-Laylee - Butterfly_12
+  - first:
+      213: -2834829669833095766
+    second: PC Computer - Yooka-Laylee - Butterfly_13
+  - first:
+      213: -8901774033699918857
+    second: PC Computer - Yooka-Laylee - Butterfly_14
+  - first:
+      213: -7646183340982628459
+    second: PC Computer - Yooka-Laylee - Butterfly_15
+  - first:
+      213: 6604003541448396350
+    second: PC Computer - Yooka-Laylee - Butterfly_16
+  - first:
+      213: -8171029949274341121
+    second: PC Computer - Yooka-Laylee - Butterfly_17
+  - first:
+      213: -4500735837298157857
+    second: PC Computer - Yooka-Laylee - Butterfly_18
+  - first:
+      213: -1373064556256597749
+    second: PC Computer - Yooka-Laylee - Butterfly_19
+  - first:
+      213: 5611920382665638569
+    second: PC Computer - Yooka-Laylee - Butterfly_20
+  - first:
+      213: -8623655845828539086
+    second: PC Computer - Yooka-Laylee - Butterfly_21
+  - first:
+      213: 7721058950967419825
+    second: PC Computer - Yooka-Laylee - Butterfly_22
+  - first:
+      213: -7472942017357444922
+    second: PC Computer - Yooka-Laylee - Butterfly_23
+  - first:
+      213: -3193340512822935310
+    second: PC Computer - Yooka-Laylee - Butterfly_24
+  - first:
+      213: 800184172773257161
+    second: PC Computer - Yooka-Laylee - Butterfly_25
+  - first:
+      213: 5299733956460492540
+    second: PC Computer - Yooka-Laylee - Butterfly_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435.3333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5314eee3439407ea0800000000000000
+      internalID: -5877117024975568587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 435.3333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b3059cc9ad3b450800000000000000
+      internalID: 6103462286944385836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 435.3333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07cf38f58df20b50800000000000000
+      internalID: 6558082759242270474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 435.3333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10162933ce06d3480800000000000000
+      internalID: -8917865119529934591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 435.3333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58cc4bea4a3b9d00800000000000000
+      internalID: 980441437332883546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_5
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 435.3333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686ee2f47f97a7b40800000000000000
+      internalID: 5438793603095651974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_6
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 435.3333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc3c5a0b69913420800000000000000
+      internalID: 2608034344238595248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_7
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 435.3333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122c886c13b57fe50800000000000000
+      internalID: 6843038428155134497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_8
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 435.3333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ace073d64612ef0800000000000000
+      internalID: -134716093606475133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218.33333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467676e86a39e6660800000000000000
+      internalID: 7380999182869817188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 218.33333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e10d9edaa74adc10800000000000000
+      internalID: 2079052977189749219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 218.33333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147861b8fb0204810800000000000000
+      internalID: 1747432662464104257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_12
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 218.33333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcd2fdf040d31a50800000000000000
+      internalID: 6490760465528052948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_13
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 218.33333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa54cd25f69a8a8d0800000000000000
+      internalID: -2834829669833095766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_14
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 218.33333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb25821eab867480800000000000000
+      internalID: -8901774033699918857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_15
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 218.33333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f883933cc43e590800000000000000
+      internalID: -7646183340982628459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_16
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 218.33333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e047f3b3226ab50800000000000000
+      internalID: 6604003541448396350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_17
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 218.33333
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0cc689d8baa9e80800000000000000
+      internalID: -8171029949274341121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd619f51a9c2a81c0800000000000000
+      internalID: -4500735837298157857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1.3333282
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0965a69f05e1fce0800000000000000
+      internalID: -1373064556256597749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1.3333282
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a24f84dadb81ed40800000000000000
+      internalID: 5611920382665638569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1.3333282
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d4b24c2be925880800000000000000
+      internalID: -8623655845828539086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_22
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1.3333282
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3634e3536b62b60800000000000000
+      internalID: 7721058950967419825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_23
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1.3333282
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8815c14d6ca4890800000000000000
+      internalID: -7472942017357444922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_24
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1.3333282
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0435ef8b9fea3d0800000000000000
+      internalID: -3193340512822935310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_25
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1.3333282
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf2a0df343da1b00800000000000000
+      internalID: 800184172773257161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Yooka-Laylee - Butterfly_26
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1.3333282
+        width: 227.88889
+        height: 217.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf637e644ff6c8940800000000000000
+      internalID: 5299733956460492540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
