@@ -11,31 +11,43 @@ public class Worm : MonoBehaviour
     }
 
     public bool MovingRight = true;
-    void Update()
+    public bool Stuck = false;
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(MovingRight)
-        {
-            transform.position += new Vector3(0.01f, 0, 0);
-        }
+        transform.SetParent(collision.transform);
+        Stuck=true;
+    }
 
-        if(!MovingRight)
+    void Update()
+  
+    {
+        if(!Stuck)
         {
-            transform.position += new Vector3(-0.01f, 0, 0);
-        }
+            if (MovingRight)
+            {
+                transform.position += new Vector3(0.01f, 0, 0);
+            }
 
-        if(transform.position.x >6)
-        {
-            MovingRight = false;
-        }
+            if (!MovingRight)
+            {
+                transform.position += new Vector3(-0.01f, 0, 0);
+            }
 
-        if(transform.position.x <-6)
-        {
-            MovingRight = true;
-        }
+            if (transform.position.x > 6)
+            {
+                MovingRight = false;
+            }
 
-        if(Random.value <0.005)
-        {
-            MovingRight = !MovingRight;
+            if (transform.position.x < -6)
+            {
+                MovingRight = true;
+            }
+
+            if (Random.value < 0.005)
+            {
+                MovingRight = !MovingRight;
+            }
         }
+       
     }
 }

@@ -2,15 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Wasp : MonoBehaviour
+public class Bubble : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public bool MovingUp = true;
     void Start()
     {
         
     }
 
-    public bool MovingUp = true;
 
     void Update()
     {
@@ -18,26 +17,19 @@ public class Wasp : MonoBehaviour
         {
             transform.position += new Vector3(0, 0.01f, 0);
         }
-
         if(!MovingUp)
         {
             transform.position += new Vector3(0, -0.01f, 0);
         }
-
-        if(transform.position.y >6)
+        
+        if(transform.position.y > 6)
         {
             MovingUp = false;
         }
 
         if(transform.position.y <-6)
         {
-            MovingUp = true;
+            Destroy(gameObject);
         }
-
-        if(Random.value <0.005)
-        {
-            MovingUp = !MovingUp;
-        }
-
     }
 }

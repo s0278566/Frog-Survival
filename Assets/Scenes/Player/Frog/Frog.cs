@@ -12,7 +12,11 @@ public class Frog : MonoBehaviour
     
     }
 
-    // Update is called once per frame
+    public GameObject bubblePrefab;
+
+    public static int Score = 0;
+
+
     void Update()
     {
         if (Input.GetKey(KeyCode.LeftArrow))
@@ -37,5 +41,17 @@ public class Frog : MonoBehaviour
         {
             transform.position += new Vector3(0, -0.01f, 0);
         }
+
+
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            Instantiate(bubblePrefab, transform.position, Quaternion.identity);
+        }
+    
+    
+
+
+
+
     }
 }
