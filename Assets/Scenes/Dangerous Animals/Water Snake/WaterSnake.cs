@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Moth : MonoBehaviour
+public class WaterSnake : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -18,11 +18,11 @@ public class Moth : MonoBehaviour
             transform.position += new Vector3(0, 0.01f, 0);
         }
 
-        if(!MovingUp)
+        if (!MovingUp)
         {
             transform.position += new Vector3(0, -0.01f, 0);
         }
-
+   
         if(transform.position.y >6)
         {
             MovingUp = false;
@@ -37,5 +37,6 @@ public class Moth : MonoBehaviour
         {
             MovingUp = !MovingUp;
         }
+        
+        }
     }
-}
