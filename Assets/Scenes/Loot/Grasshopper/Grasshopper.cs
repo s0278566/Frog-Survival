@@ -12,10 +12,6 @@ public class Grasshopper : MonoBehaviour
 
     public bool MovingRight = true;
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        Destroy(gameObject);
-    }
     void Update()
     {
         if(MovingRight)

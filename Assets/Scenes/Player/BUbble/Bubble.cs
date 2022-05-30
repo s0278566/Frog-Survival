@@ -22,14 +22,6 @@ public class Bubble : MonoBehaviour
             transform.position += new Vector3(0, -0.01f, 0);
         }
         
-        if(transform.position.y > 6)
-        {
-            MovingUp = false;
-        }
-
-        if(transform.position.y <-6)
-        {
-            Destroy(gameObject);
-        }
+        
     }
 }

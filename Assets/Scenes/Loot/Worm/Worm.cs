@@ -12,11 +12,8 @@ public class Worm : MonoBehaviour
 
     public bool MovingRight = true;
     public bool Stuck = false;
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        transform.SetParent(collision.transform);
-        Stuck=true;
-    }
+  
+   
 
     void Update()
   
