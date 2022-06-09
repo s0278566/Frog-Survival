@@ -13,9 +13,9 @@ public class Froghealth3 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Frog.Health < 1)
+        if (Frog.Health < 3)
         {
-            Application.LoadLevel("Lose");
+            
             Destroy(gameObject);
         }
     }

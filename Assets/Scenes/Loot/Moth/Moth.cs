@@ -11,7 +11,7 @@ public class Moth : MonoBehaviour
     {
         if (collision.transform.name == "Frog")
         {
-            Frog.Score++;
+            Frog.Score+=6;
             Destroy(gameObject);
         }
 

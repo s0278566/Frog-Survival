@@ -12,6 +12,7 @@ public class WaterSnake : MonoBehaviour
         if (collision.transform.name == "Frog")
         {
             Frog.Health--;
+            Debug.Log("Snake hit. Health is" +Frog.Health);
             Destroy(gameObject);
         }
 

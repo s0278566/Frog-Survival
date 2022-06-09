@@ -11,7 +11,7 @@ public class Grasshopper : MonoBehaviour
     {
         if (collision.transform.name == "Frog")
         {
-            Frog.Score++;
+            Frog.Score+=2;
             Destroy(gameObject);
         }
 

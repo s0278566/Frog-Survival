@@ -11,7 +11,7 @@ public class Snail : MonoBehaviour
     {
         if (collision.transform.name == "Frog")
         {
-            Frog.Score++;
+            Frog.Score+=4;
             Destroy(gameObject);
         }
 

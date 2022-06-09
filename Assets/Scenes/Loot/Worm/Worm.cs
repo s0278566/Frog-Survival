@@ -11,7 +11,7 @@ public class Worm : MonoBehaviour
     {
         if (collision.transform.name == "Frog")
         {
-            Frog.Score++;
+            Frog.Score+=5;
             Destroy(gameObject);
         }
 

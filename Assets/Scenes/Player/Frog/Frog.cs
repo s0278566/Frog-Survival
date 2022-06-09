@@ -23,6 +23,8 @@ public class Frog : MonoBehaviour
 
     void Update()
     {
+        Debug.Log(Score);
+
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             transform.position += new Vector3(-0.01f, 0, 0);
@@ -51,8 +53,13 @@ public class Frog : MonoBehaviour
         {
             Instantiate(bubblePrefab, transform.position, Quaternion.identity);
         }
-    
-    
+
+        if (Frog.Score>20)
+        {
+            Application.LoadLevel("Win");
+          
+        }
+
 
 
 
