@@ -4,6 +4,13 @@ using UnityEngine;
 
 public class Frog : MonoBehaviour
 {
+    public GameObject bubblePrefab;
+
+    public static int Score = 0;
+
+    public static int Health = 3;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -12,10 +19,7 @@ public class Frog : MonoBehaviour
     
     }
 
-    public GameObject bubblePrefab;
-
-    public static int Score = 0;
-
+ 
 
     void Update()
     {

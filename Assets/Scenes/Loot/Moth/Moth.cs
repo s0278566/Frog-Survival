@@ -4,13 +4,30 @@ using UnityEngine;
 
 public class Moth : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public bool MovingUp = true;
+    public bool stuck = false;
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.transform.name == "Frog")
+        {
+            Frog.Score++;
+            Destroy(gameObject);
+        }
+
+        if (collision.transform.name == "Bubble(Clone)")
+        {
+            transform.SetParent(collision.transform);
+            stuck = true;
+        }
+    }
+
     void Start()
     {
         
     }
 
-    public bool MovingUp = true;
+    
     void Update()
     {
         if(MovingUp)

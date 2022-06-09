@@ -4,13 +4,29 @@ using UnityEngine;
 
 public class Snail : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public bool MovingRight = true;
+    public bool stuck = false;
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.transform.name == "Frog")
+        {
+            Frog.Score++;
+            Destroy(gameObject);
+        }
+
+        if (collision.transform.name == "Bubble(Clone)")
+        {
+            transform.SetParent(collision.transform);
+            stuck = true;
+        }
+    }
     void Start()
     {
         
     }
 
-    public bool MovingRight = true;
+    
     void Update()
     {
         if(MovingRight)        
